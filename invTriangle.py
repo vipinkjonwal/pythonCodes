@@ -1,9 +1,9 @@
 def invertedTriangle(numberRows):
 	'''
 	Objective			: To print an inverted triangle.
-	Input Parameters	:
+	Input Parameters		:
 			numberRows 	: integer-Number of rows inputted by user.
-	Return value		: none
+	Return value			: none
 	'''
 	#Approach			: Use of 'while' loop to print the triangle.
 	
@@ -17,8 +17,8 @@ def invertedTriangle(numberRows):
 def main():
 	'''
 	Objective			: To print an inverted triangle.
-	Input Parameters	: none
-	Return value		: none
+	Input Parameters		: none
+	Return value			: none
 	'''
 	#Approach			: Invoke the function rightTriangle.
 
