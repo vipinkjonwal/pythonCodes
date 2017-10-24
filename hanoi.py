@@ -1,12 +1,12 @@
 def towerOfHanoi(numDisks, source, spare, destination):
 	'''
 	Objective		: To solve the problem of tower of hanoi.
-	Input Variable	:
+	Input Variable		:
 		numDisks	: integer - Number of disks.
 		source		: source tower.
 		spare		: spare tower.
 		destination	: destination tower.
-	Return value	: None.
+	Return value		: None.
 	'''
 	#Approach		: Using recursion.
 
@@ -21,8 +21,8 @@ def towerOfHanoi(numDisks, source, spare, destination):
 def main():
 	'''
 	Objective		: To solve the problem of tower of hanoi.
-	Input Variable	: None.
-	Return value	: None.
+	Input Variable		: None.
+	Return value		: None.
 	'''
 	#Approach		: Invoke towerHanoiFunction.
 
