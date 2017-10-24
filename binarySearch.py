@@ -1,12 +1,12 @@
 def findIndex(givenList,lower,upper,element):
 	'''
 	Objective			: To find the index of an element from a list using binary search algorithm.
-	Input Parameters	:
+	Input Parameters		:
 			givenList	: User enterred list in sorted order.
 			lower		: Lower index.
 			upper		: Upper index.
-			element     : Element to be search.
-	Return Value		: Index of element to be found or -1 if element not found.
+			element     	: Element to be search.
+	Return Value			: Index of element to be found or -1 if element not found.
 	'''
 	#Approach			: Recursion on findIndex function.
 
@@ -24,10 +24,10 @@ def findIndex(givenList,lower,upper,element):
 def binarySearch(givenList,element):
 	'''
 	Objective			: To search an element from a list using binary search algorithm.
-	Input Parameters	:
+	Input Parameters		:
 			givenList	: User enterred list in sorted order.
-			element     : Element to be search.
-	Return Value		: Index of element to be found or -1 if element not found.
+			element     	: Element to be search.
+	Return Value			: Index of element to be found or -1 if element not found.
 	'''
 	#Approach			: Invoke findIndex function to find the index of given element to be search.
 
@@ -38,8 +38,8 @@ def binarySearch(givenList,element):
 def main():
 	'''
 	Objective			: To search an element from a list using binary search algorithm.
-	Input Parameters	: None.
-	Return Value		: None.
+	Input Parameters		: None.
+	Return Value			: None.
 	'''
 	#Approach			: Invoke binarySearch function.
 
