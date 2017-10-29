@@ -10,7 +10,7 @@ def invertedTriangle(numberRows):
 	numberSpaces=0									 
 	numberStars=2*numberRows-1
 	while numberStars>0:
-		print(' '*numberSpaces,'*'*numberStars)
+		print(' '*numberSpaces,'*'*numberStars,sep="")
 		numberStars-=2
 		numberSpaces+=1			
 
