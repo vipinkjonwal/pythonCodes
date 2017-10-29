@@ -11,7 +11,9 @@ click = True
 counter  = 0
 def inputValues(buttons):
     global click
+    #Declaring click as Global
     global counter
+    #Declaring counter as Global
 
     if(counter < 9):
         if (buttons["text"] == " ") and (click == True):
@@ -46,7 +48,8 @@ def inputValues(buttons):
 
     if counter == 9:
         tkinter.messagebox.showinfo(title = "DRAW",message = "Game Drawn.")
-
+    #end inputValues Function
+    
 buttons = StringVar()
 #StringVar() is used to call the corresponding constructor to create a tkinter variable.
 
@@ -80,4 +83,5 @@ button9 = Button(tk,text = " ",height = 4, width = 8, command = lambda:inputValu
 button9.grid(row = 3, column = 2,sticky = S+N+E+W)
 
 tk.mainloop()
+#tk.mainloop() is used to continously displaying the application box onto the screen.
 #endOfProgram
