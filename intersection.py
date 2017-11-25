@@ -20,7 +20,6 @@ def intersection(list1,list2,finalList=[]):
         for j in range(lenList2):
             if list1[i] == list2[j]:
                 finalList.append(list1[i])
-
     return finalList
 
 intersectionList = intersection(list1,list2)
