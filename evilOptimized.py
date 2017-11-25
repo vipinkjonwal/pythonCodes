@@ -1,4 +1,13 @@
 def checkEvil(number):
+    '''
+    Objective            : To check whether given number is evil or not.
+    Input Variables      :
+            :param number: Given number to check if evil or not.
+    Return Value         : Bool Value - True or False, if Evil the True else False
+    '''
+    #Approach            : Count the number of 1's in it's binary form using traditional
+    #                      method of finding binary equivalent.
+
     count = 0
     while (number != 0):
         if number % 2 == 1:
