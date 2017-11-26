@@ -1,11 +1,11 @@
 def flatterList(givenList,flatList=[],index=0):
 	'''
 	Objective			: To flatten a givenList having elements as integers and lists i.e, nested lists.
-	Input Parameters		: 
+	Input Parameters	:
 			givenList	: Given list of lists, multiple nesting, which needs to be flatten.
 			flatterList	: Default - Blank List, a new flatten list.
 			index		: Default - 0, for iterations.
-	Return value			: flatList, i.e, flatten list.
+	Return value		: flatList, i.e, flatten list.
 	'''
 	#Approach			: Checking the type fo element in main list whether it is integer or list.
 	#					  If it is an integer, it is appended in flatList else flatterList is called recursively on sublist.
@@ -22,8 +22,8 @@ def flatterList(givenList,flatList=[],index=0):
 def main():
 	'''
 	Objective			: To flatten a givenList having elements as integers and lists i.e, nested lists.
-	Input Parameters		: None.
-	Return value			: None.
+	Input Parameters	: None.
+	Return value		: None.
 	'''
 	#Approach			: Invoke flatterList function.
 
