@@ -10,7 +10,7 @@ def flatterList(givenList,totalSum=0,index=0):
         return flatterList(givenList[index],totalSum)
 
 def main():
-    givenList=[1,2,[3,4,7,10,13],13]
+    givenList=[1,2,[3,4,[7,10],13],13]
     print(flatterList(givenList))
 
 if __name__ == '__main__':
