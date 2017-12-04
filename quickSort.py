@@ -22,7 +22,7 @@ def quickSort(lst, start = 0, end = None):
     Input Parameter: lst - list
     Return Value: sorted list
     '''
-    if end == None: #Quick sort invoked for the first time
+    if end == None:
         end = len(lst) - 1
     if start<end:
         splitPoint = partition(lst, start, end)
