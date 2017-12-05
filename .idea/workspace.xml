@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setOperations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatisticalCalc_Python" afterPath="$PROJECT_DIR$/StatisticalCalc_Python" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickSort.py" afterPath="$PROJECT_DIR$/quickSort.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fibonacci.py" afterPath="$PROJECT_DIR$/fibonacci.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="palindromeRec.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="palindromeRec.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/palindromeRec.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -37,28 +39,18 @@
       <file leaf-file-name="fibonacci.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="84">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="printListTypes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printListTypes.py">
+      <file leaf-file-name="evilRec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evilRec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quickSort.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quickSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="42">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -92,13 +84,14 @@
         <option value="$PROJECT_DIR$/palindrome.py" />
         <option value="$PROJECT_DIR$/palindromeRec.py" />
         <option value="$PROJECT_DIR$/reverseSentence.py" />
-        <option value="$PROJECT_DIR$/fibonacci.py" />
         <option value="$PROJECT_DIR$/logo.py" />
         <option value="$PROJECT_DIR$/printListTypes.py" />
         <option value="$PROJECT_DIR$/primeOptimized.py" />
         <option value="$PROJECT_DIR$/StatsCalc/probabilityAnalysis.py" />
         <option value="$PROJECT_DIR$/StatisticalCalc_Python/basicFunctions.py" />
         <option value="$PROJECT_DIR$/quickSort.py" />
+        <option value="$PROJECT_DIR$/setOperations.py" />
+        <option value="$PROJECT_DIR$/fibonacci.py" />
       </list>
     </option>
   </component>
@@ -126,8 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,6 +135,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quickSort">
+  <component name="RunManager" selected="Python.fibonacci">
     <configuration name="basicFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +172,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="logo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,7 +184,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,23 +206,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="printListTypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/printListTypes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,20 +223,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="setOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setOperations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.logo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.printListTypes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.primeOptimized" />
-      <item index="3" class="java.lang.String" itemvalue="Python.basicFunctions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.quickSort" />
+      <item index="0" class="java.lang.String" itemvalue="Python.primeOptimized" />
+      <item index="1" class="java.lang.String" itemvalue="Python.basicFunctions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.quickSort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.setOperations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fibonacci" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.quickSort" />
-        <item index="1" class="java.lang.String" itemvalue="Python.basicFunctions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.primeOptimized" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printListTypes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.logo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fibonacci" />
+        <item index="1" class="java.lang.String" itemvalue="Python.setOperations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.quickSort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.basicFunctions" />
+        <item index="4" class="java.lang.String" itemvalue="Python.primeOptimized" />
       </list>
     </recent_temporary>
   </component>
@@ -341,11 +334,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindromeRec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printListTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/primeOptimized.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,13 +543,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sumFlatter.py" />
-    <entry file="file://$PROJECT_DIR$/evilRec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sentenceForm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -548,29 +571,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reverseSentence.py" />
-    <entry file="file://$PROJECT_DIR$/palindromeRec.py">
+    <entry file="file://$PROJECT_DIR$/logo.py" />
+    <entry file="file://$PROJECT_DIR$/StatsCalc/probabilityAnalysis.py" />
+    <entry file="file://$PROJECT_DIR$/primeOptimized.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py" />
-    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/StatisticalCalc_Python/basicFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -582,27 +596,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StatsCalc/probabilityAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/primeOptimized.py">
+    <entry file="file://$PROJECT_DIR$/setOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StatisticalCalc_Python/basicFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="457">
           <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evilRec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palindromeRec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
