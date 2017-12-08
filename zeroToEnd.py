@@ -8,7 +8,7 @@ def shiftZero(givenList):
 
     for i in range(nonZeroCount,len(givenList)):
         finalList.append(0)
-        
+
     return finalList
 
 
