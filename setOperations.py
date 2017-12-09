@@ -1,24 +1,16 @@
 def unionOperation(list1,list2):
     index1 = 0
     index2 = 0
-    index = 0
     unionList = []
-    while (index1 < len(list1)) and (index2 < len(list2)):
-        if list1[index1] < list2[index2]:
-            print(list1[index1])
-            index1 += 1
-            index += 1
-        elif list1[index1] > list2[index2]:
-            print(list2[index2])
-            index2 += 1
-            index += 1
-        else:
-            print(list1[index1])
-            index1 += 1
-            index2 += 1
+    unionList.extend(list1)
 
+    for i in range(len(list2)):
+        if list2[i] not in unionList:
+            unionList.append(list2[i])
     return unionList
+
+
 list1 = [1,2,3,4,5]
-list2 = [3,4,5,6,7,8]
+list2 = [6,7,8,4,5,3,2,1,3,9]
 finalList = unionOperation(list1,list2)
 print(finalList)
