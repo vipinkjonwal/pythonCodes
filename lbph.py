@@ -38,8 +38,9 @@ def calculateDecimalEquivalent(binaryValueMatrix):
                         binaryValueMatrix[1][0]*(2**0)
     return decimalEquivalent
 
-initialMatrix = initializeMatrix()
-intensityMatrix = populateMatrix(initialMatrix)
-binaryValueMatrix = binaryMatrix(intensityMatrix)
-decimalEquivalent = calculateDecimalEquivalent(binaryValueMatrix)
-print(decimalEquivalent)
+if __name__ == '__main__':
+    initialMatrix = initializeMatrix()
+    intensityMatrix = populateMatrix(initialMatrix)
+    binaryValueMatrix = binaryMatrix(intensityMatrix)
+    decimalEquivalent = calculateDecimalEquivalent(binaryValueMatrix)
+    print('Decimal Value:',decimalEquivalent)
