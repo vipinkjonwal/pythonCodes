@@ -9,7 +9,6 @@ def unionOperation(list1,list2):
             unionList.append(list2[i])
     return unionList
 
-
 list1 = [1,2,3,4,5]
 list2 = [6,7,8,4,5,3,2,1,3,9]
 finalList = unionOperation(list1,list2)
