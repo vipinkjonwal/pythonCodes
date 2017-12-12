@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plot
 def initializeMatrix():
     row,column = 3,3
     matrix = [[0 for x in range(row)] for y in range(column)]
@@ -44,3 +45,7 @@ if __name__ == '__main__':
     binaryValueMatrix = binaryMatrix(intensityMatrix)
     decimalEquivalent = calculateDecimalEquivalent(binaryValueMatrix)
     print('Decimal Value:',decimalEquivalent)
+    data = [decimalEquivalent,24,27,21,18,37,19,16,12,11,20,40]
+    num_bins = 10
+    plot.hist(data,num_bins,facecolor='blue',alpha=0.5)
+    plot.show()
