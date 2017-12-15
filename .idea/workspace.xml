@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linearRegression.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -14,11 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="computeSumRec.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="computeSumRec.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/computeSumRec.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptionHandling.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exceptionHandling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linearRegression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linearRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -68,6 +89,8 @@
         <option value="$PROJECT_DIR$/frequency.py" />
         <option value="$PROJECT_DIR$/outputs.py" />
         <option value="$PROJECT_DIR$/computeSumRec.py" />
+        <option value="$PROJECT_DIR$/exceptionHandling.py" />
+        <option value="$PROJECT_DIR$/linearRegression.py" />
       </list>
     </option>
   </component>
@@ -95,8 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.computeSumRec">
+  <component name="RunManager" selected="Python.linearRegression">
     <configuration name="computeSumRec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +166,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="extendedFactorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,7 +178,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extendedFactorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionHandling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +217,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="lbph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -206,25 +229,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lbph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.extendedFactorial" />
-      <item index="1" class="java.lang.String" itemvalue="Python.lbph" />
-      <item index="2" class="java.lang.String" itemvalue="Python.graphPlot" />
-      <item index="3" class="java.lang.String" itemvalue="Python.frequency" />
-      <item index="4" class="java.lang.String" itemvalue="Python.computeSumRec" />
+      <item index="0" class="java.lang.String" itemvalue="Python.graphPlot" />
+      <item index="1" class="java.lang.String" itemvalue="Python.frequency" />
+      <item index="2" class="java.lang.String" itemvalue="Python.computeSumRec" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exceptionHandling" />
+      <item index="4" class="java.lang.String" itemvalue="Python.linearRegression" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.computeSumRec" />
-        <item index="1" class="java.lang.String" itemvalue="Python.frequency" />
-        <item index="2" class="java.lang.String" itemvalue="Python.graphPlot" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lbph" />
-        <item index="4" class="java.lang.String" itemvalue="Python.extendedFactorial" />
+        <item index="0" class="java.lang.String" itemvalue="Python.linearRegression" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exceptionHandling" />
+        <item index="2" class="java.lang.String" itemvalue="Python.computeSumRec" />
+        <item index="3" class="java.lang.String" itemvalue="Python.frequency" />
+        <item index="4" class="java.lang.String" itemvalue="Python.graphPlot" />
       </list>
     </recent_temporary>
   </component>
@@ -277,20 +300,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/printListTypes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/primeOptimized.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -558,17 +567,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="63">
             <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -583,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,14 +599,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/computeSumRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionHandling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
