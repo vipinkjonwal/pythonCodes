@@ -31,7 +31,7 @@ def swap4(a, b):
     a = a ^ b
     print('After Swapping : a : ', a, ' & b : ', b)
 
-print(sys.version)
+print('Version',sys.version)
 swap1(1,2)
 swap2(1,2)
 swap3(1,2)
