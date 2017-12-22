@@ -1,3 +1,4 @@
+import timeit
 def findIndex(givenList,lower,upper,element):
 	'''
 	Objective			: To find the index of an element from a list using binary search algorithm.
@@ -52,5 +53,15 @@ def main():
 	else:
 		print('Element ',element,' found at index ',returnIndex,sep="")
 
+	t1 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 1))
+	t2 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 7))
+	t3 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 17))
+	print('Best Case:',t1.timeit())
+	print('Average Case:',t2.timeit())
+	print('Worst Case:',t3.timeit())
+
 if __name__ == '__main__':
 	main()
+
+
+
