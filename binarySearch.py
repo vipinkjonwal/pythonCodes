@@ -56,6 +56,7 @@ def main():
 	t1 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 1))
 	t2 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 7))
 	t3 = timeit.Timer(lambda: binarySearch([1, 3, 5, 7, 12, 14, 17], 17))
+
 	print('Best Case:',t1.timeit())
 	print('Average Case:',t2.timeit())
 	print('Worst Case:',t3.timeit())
