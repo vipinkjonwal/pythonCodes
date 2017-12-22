@@ -54,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linearSearchVSBinarySearchTime.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="linearSearchVSBinarySearchTime.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linearSearchVSBinarySearchTime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binarySearch.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="binarySearch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="51" />
+            <state relative-caret-position="74">
+              <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -124,6 +124,7 @@
         <option value="$PROJECT_DIR$/sendMessage.py" />
         <option value="$PROJECT_DIR$/swapTwoNos.py" />
         <option value="$PROJECT_DIR$/linearSearchVSBinarySearchTime.py" />
+        <option value="$PROJECT_DIR$/binarySearch.py" />
       </list>
     </option>
   </component>
@@ -181,7 +182,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linearSearchVSBinarySearchTime">
+  <component name="RunManager" selected="Python.binarySearch">
+    <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarySearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="linearSearchVSBinarySearchTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,23 +230,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sendMessage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="sumOfThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumOfThree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,19 +269,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sumOfThree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ticTacToeUpdate" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sendMessage" />
-      <item index="3" class="java.lang.String" itemvalue="Python.swapTwoNos" />
-      <item index="4" class="java.lang.String" itemvalue="Python.linearSearchVSBinarySearchTime" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ticTacToeUpdate" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sendMessage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.swapTwoNos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.linearSearchVSBinarySearchTime" />
+      <item index="4" class="java.lang.String" itemvalue="Python.binarySearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.linearSearchVSBinarySearchTime" />
-        <item index="1" class="java.lang.String" itemvalue="Python.swapTwoNos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sendMessage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ticTacToeUpdate" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sumOfThree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.binarySearch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.linearSearchVSBinarySearchTime" />
+        <item index="2" class="java.lang.String" itemvalue="Python.swapTwoNos" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sendMessage" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ticTacToeUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1513847642083</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="xml Update">
+      <created>1513847676538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513847676538</updated>
+    </task>
+    <task id="LOCAL-00009" summary="xml Update">
+      <created>1513940701872</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513940701872</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,9 +421,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swap Two Numbers" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Time of Linear Search and Loops in version 3.6.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time of Linear Search and Loops in version 3.6.3" />
+    <MESSAGE value="xml Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,18 +759,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binarySearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linearSearchVSBinarySearchTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
           <folding />
         </state>
       </provider>
