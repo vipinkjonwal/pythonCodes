@@ -14,51 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="computeSumRec.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computeSumRec.py">
+      <file leaf-file-name="rotateList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rotateList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+            <state relative-caret-position="311">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="passwordValidation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passwordValidation.py">
+      <file leaf-file-name="maxOfThree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maxOfThree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="80">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emailAddressSyntax.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emailAddressSyntax.py">
+      <file leaf-file-name="averageOfThree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/averageOfThree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snakeCase.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snakeCase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="roundFunction.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/roundFunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -119,6 +99,9 @@
         <option value="$PROJECT_DIR$/emailAddressSyntax.py" />
         <option value="$PROJECT_DIR$/snakeCase.py" />
         <option value="$PROJECT_DIR$/roundFunction.py" />
+        <option value="$PROJECT_DIR$/averageOfThree.py" />
+        <option value="$PROJECT_DIR$/rotateList.py" />
+        <option value="$PROJECT_DIR$/maxOfThree.py" />
       </list>
     </option>
   </component>
@@ -146,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,6 +141,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,8 +159,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.roundFunction">
-    <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.maxOfThree">
+    <configuration name="averageOfThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,12 +172,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarySearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/averageOfThree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="emailAddressSyntax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maxOfThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -206,12 +189,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emailAddressSyntax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxOfThree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="passwordValidation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rotateList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,7 +206,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/passwordValidation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rotateList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,19 +246,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.binarySearch" />
-      <item index="1" class="java.lang.String" itemvalue="Python.passwordValidation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.emailAddressSyntax" />
-      <item index="3" class="java.lang.String" itemvalue="Python.snakeCase" />
-      <item index="4" class="java.lang.String" itemvalue="Python.roundFunction" />
+      <item index="0" class="java.lang.String" itemvalue="Python.snakeCase" />
+      <item index="1" class="java.lang.String" itemvalue="Python.roundFunction" />
+      <item index="2" class="java.lang.String" itemvalue="Python.maxOfThree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.averageOfThree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.rotateList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.roundFunction" />
-        <item index="1" class="java.lang.String" itemvalue="Python.snakeCase" />
-        <item index="2" class="java.lang.String" itemvalue="Python.emailAddressSyntax" />
-        <item index="3" class="java.lang.String" itemvalue="Python.passwordValidation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.binarySearch" />
+        <item index="0" class="java.lang.String" itemvalue="Python.maxOfThree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.rotateList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.averageOfThree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.roundFunction" />
+        <item index="4" class="java.lang.String" itemvalue="Python.snakeCase" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +399,56 @@
       <option name="project" value="LOCAL" />
       <updated>1514277647904</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="xml Update">
+      <created>1514282107108</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1514282107108</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Maximum of Three Numbers using single if-else.">
+      <created>1514387109100</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1514387109100</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Rotate List">
+      <created>1514475068655</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1514475068655</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Rotate List">
+      <created>1514475394979</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1514475394979</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Average of Three Numbers*&#10;* (More Optimized Way Needed)">
+      <created>1514475498309</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1514475498309</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Rotate List (Two Methods)">
+      <created>1514475748284</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1514475748284</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Maximum of Three Numbers (Two Methods)">
+      <created>1514476086902</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1514476086902</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -483,9 +515,14 @@
     <MESSAGE value="Validation of Password" />
     <MESSAGE value="Email Syntax Validation" />
     <MESSAGE value="Snake Case a Sentence." />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Round an Integer to nearest 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Round an Integer to nearest 10" />
+    <MESSAGE value="xml Update" />
+    <MESSAGE value="Maximum of Three Numbers using single if-else." />
+    <MESSAGE value="Rotate List" />
+    <MESSAGE value="Average of Three Numbers*&#10;* (More Optimized Way Needed)" />
+    <MESSAGE value="Rotate List (Two Methods)" />
+    <MESSAGE value="Maximum of Three Numbers (Two Methods)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum of Three Numbers (Two Methods)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,27 +531,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sumNested.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linearSearchRec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evilRec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sumNested.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -788,6 +804,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passwordValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailAddressSyntax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snakeCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roundFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/computeSumRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -796,34 +840,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passwordValidation.py">
+    <entry file="file://$PROJECT_DIR$/averageOfThree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="84">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emailAddressSyntax.py">
+    <entry file="file://$PROJECT_DIR$/rotateList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="311">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snakeCase.py">
+    <entry file="file://$PROJECT_DIR$/maxOfThree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roundFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="80">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
