@@ -20,6 +20,9 @@ def swap4(a, b):
     b = a ^ b
     a = a ^ b
 
+def swap5(a,b):
+    return b,a
+
 t1 = timeit.Timer(lambda: swap1(1,2))
 print('Method 1 (Using Temp):',t1.timeit())
 
@@ -31,6 +34,10 @@ print('Method 3 (Using + and -):',t3.timeit())
 
 t4 = timeit.Timer(lambda: swap4(1,2))
 print('Method 4 (Using XOR):',t4.timeit())
+
+t5 = timeit.Timer(lambda: swap5(1,2))
+print('Method 5 (Using Python Methods):',t5.timeit())
+
 
 
 '''
