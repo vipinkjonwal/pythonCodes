@@ -17,28 +17,18 @@
       <file leaf-file-name="rotateList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rotateList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="436">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maxOfThree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maxOfThree.py">
+      <file leaf-file-name="reverseASentence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverseASentence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="averageOfThree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/averageOfThree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="441">
+              <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -92,7 +82,6 @@
         <option value="$PROJECT_DIR$/linearRegression.py" />
         <option value="$PROJECT_DIR$/sumOfThree.py" />
         <option value="$PROJECT_DIR$/sendMessage.py" />
-        <option value="$PROJECT_DIR$/swapTwoNos.py" />
         <option value="$PROJECT_DIR$/linearSearchVSBinarySearchTime.py" />
         <option value="$PROJECT_DIR$/binarySearch.py" />
         <option value="$PROJECT_DIR$/passwordValidation.py" />
@@ -102,6 +91,8 @@
         <option value="$PROJECT_DIR$/averageOfThree.py" />
         <option value="$PROJECT_DIR$/rotateList.py" />
         <option value="$PROJECT_DIR$/maxOfThree.py" />
+        <option value="$PROJECT_DIR$/swapTwoNos.py" />
+        <option value="$PROJECT_DIR$/reverseASentence.py" />
       </list>
     </option>
   </component>
@@ -129,6 +120,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,8 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maxOfThree">
+  <component name="RunManager" selected="Python.reverseASentence">
     <configuration name="averageOfThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,6 +185,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="reverseASentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseASentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="rotateList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +219,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="roundFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="swapTwoNos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,42 +231,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roundFunction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="snakeCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snakeCase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swapTwoNos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.snakeCase" />
-      <item index="1" class="java.lang.String" itemvalue="Python.roundFunction" />
-      <item index="2" class="java.lang.String" itemvalue="Python.maxOfThree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.averageOfThree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.rotateList" />
+      <item index="0" class="java.lang.String" itemvalue="Python.maxOfThree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.averageOfThree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.rotateList" />
+      <item index="3" class="java.lang.String" itemvalue="Python.swapTwoNos" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverseASentence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.maxOfThree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.rotateList" />
-        <item index="2" class="java.lang.String" itemvalue="Python.averageOfThree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.roundFunction" />
-        <item index="4" class="java.lang.String" itemvalue="Python.snakeCase" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reverseASentence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.swapTwoNos" />
+        <item index="2" class="java.lang.String" itemvalue="Python.rotateList" />
+        <item index="3" class="java.lang.String" itemvalue="Python.maxOfThree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.averageOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +439,42 @@
       <option name="project" value="LOCAL" />
       <updated>1514476086902</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="xml Update">
+      <created>1514476115887</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1514476115887</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Swap Two Numbers (4 Methods)">
+      <created>1514476500922</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1514476500922</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Swap Two Numbers (5 Methods)">
+      <created>1514477488587</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1514477488587</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Reverse a Sentence">
+      <created>1514561090348</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1514561090348</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Reverse a Sentence">
+      <created>1514562004343</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1514562004343</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,13 +542,16 @@
     <MESSAGE value="Email Syntax Validation" />
     <MESSAGE value="Snake Case a Sentence." />
     <MESSAGE value="Round an Integer to nearest 10" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Maximum of Three Numbers using single if-else." />
     <MESSAGE value="Rotate List" />
     <MESSAGE value="Average of Three Numbers*&#10;* (More Optimized Way Needed)" />
     <MESSAGE value="Rotate List (Two Methods)" />
     <MESSAGE value="Maximum of Three Numbers (Two Methods)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maximum of Three Numbers (Two Methods)" />
+    <MESSAGE value="xml Update" />
+    <MESSAGE value="Swap Two Numbers (4 Methods)" />
+    <MESSAGE value="Swap Two Numbers (5 Methods)" />
+    <MESSAGE value="Reverse a Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse a Sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,13 +560,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sumNested.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/evilRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -699,17 +721,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="63">
             <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -752,13 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swapTwoNos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -836,6 +851,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxOfThree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swapTwoNos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -850,16 +880,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rotateList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="436">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maxOfThree.py">
+    <entry file="file://$PROJECT_DIR$/reverseASentence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="441">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
           <folding />
         </state>
       </provider>
