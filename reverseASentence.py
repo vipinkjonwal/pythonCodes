@@ -10,6 +10,7 @@ def splitSentence(sentence):
     for i in indexList:
         wordsList.append(sentence[j:i])
         j = i+1
+    wordsList.append(sentence[j:len(sentence)])
 
     return wordsList
 
@@ -24,11 +25,22 @@ def reverseSentence(sentence):
 
     return sentence
 
+def joinSentence(sentence):
+    finalSentence = ''
+
+    for i in sentence:
+        finalSentence += i
+        finalSentence += ' '
+
+    return finalSentence
+
 def main():
-    sentence = 'India I love python programming language'
+    sentence = 'I have successfully programmed this problem'
+    print('Given Sentence:',sentence)
     wordsList = splitSentence(sentence)
     reverseWords = reverseSentence(wordsList)
-    print(reverseWords)
+    reversedSentence = joinSentence(reverseWords)
+    print('Reversed Sentence:',reversedSentence)
 
 if __name__ == '__main__':
     main()
