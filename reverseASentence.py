@@ -1,3 +1,4 @@
+import timeit
 def splitSentence(sentence):
     indexList = []
     wordsList = []
@@ -43,4 +44,5 @@ def main():
     print('Reversed Sentence:',reversedSentence)
 
 if __name__ == '__main__':
-    main()
+    t = timeit.Timer(lambda:main())
+    print('Time Taken:',t.timeit(number=1),'seconds')
