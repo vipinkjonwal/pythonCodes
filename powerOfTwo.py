@@ -6,5 +6,4 @@ def isPowerOfTwo(number):
     else:
         return isPowerOfTwo(number//2)
 
-print(isPowerOfTwo(14))
 print(isPowerOfTwo(4096))
