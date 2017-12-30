@@ -1,4 +1,5 @@
 import math
+import timeit
 def primeNumber(number):
     #If number is less than or equal to 1, it's not Prime.
     if number <= 1:
@@ -17,10 +18,6 @@ def primeNumber(number):
                 return False
         return True
 
-#Test Cases
-print(primeNumber(2))
-print(primeNumber(-2))
-print(primeNumber(12))
-print(primeNumber(19))
-print(primeNumber(5))
-print(primeNumber(377))
+
+t = timeit.Timer(lambda: primeNumber(7919))
+print(t.timeit(number=100))
