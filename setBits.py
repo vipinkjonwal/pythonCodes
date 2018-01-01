@@ -1,3 +1,4 @@
+import timeit
 def setBits(number,count = 0):
     if number == 0:
         return count
@@ -13,3 +14,5 @@ def powerOfTwo(number):
     else:
         return False
 
+t = timeit.Timer(lambda: powerOfTwo(8192) )
+print(t.timeit(number=1000))
