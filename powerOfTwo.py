@@ -1,3 +1,4 @@
+import timeit
 def isPowerOfTwo(number):
     if number == 1:
         return True
@@ -6,4 +7,5 @@ def isPowerOfTwo(number):
     else:
         return isPowerOfTwo(number//2)
 
-print(isPowerOfTwo(4096))
+t = timeit.Timer(lambda:isPowerOfTwo(8192))
+print(t.timeit(number=1000))
