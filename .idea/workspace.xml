@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="Split the Even and Odd elements into two different lists.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catData.py" />
+    <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -632,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515163352463</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Date Class">
+      <created>1515253884880</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1515253884880</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -693,7 +699,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Swap Two Numbers" />
     <MESSAGE value="Time of Linear Search and Loops in version 3.6.3" />
     <MESSAGE value="Binary Search with Time" />
     <MESSAGE value="Validation of Password" />
@@ -718,7 +723,8 @@
     <MESSAGE value="Split the Even and Odd elements into two different lists." />
     <MESSAGE value="Merge Sort" />
     <MESSAGE value="xml Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml Update" />
+    <MESSAGE value="Date Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,6 +995,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#48#66#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
