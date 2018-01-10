@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectionSort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selectionSort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selectionSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="294">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseWords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverseWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -50,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/armstrongNumber.py" />
         <option value="$PROJECT_DIR$/palindrome.py" />
         <option value="$PROJECT_DIR$/palindromeRec.py" />
         <option value="$PROJECT_DIR$/reverseSentence.py" />
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/sumZeroPairs.py" />
         <option value="$PROJECT_DIR$/deepCopy.py" />
         <option value="$PROJECT_DIR$/selectionSort.py" />
+        <option value="$PROJECT_DIR$/reverseWords.py" />
       </list>
     </option>
   </component>
@@ -128,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +150,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -158,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selectionSort">
+  <component name="RunManager" selected="Python.reverseWords">
     <configuration name="deepCopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +186,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="segregateZeroOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -188,7 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/segregateZeroOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,18 +256,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.sumZero" />
-      <item index="1" class="java.lang.String" itemvalue="Python.segregateZeroOne" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.deepCopy" />
-      <item index="4" class="java.lang.String" itemvalue="Python.selectionSort" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.deepCopy" />
+      <item index="3" class="java.lang.String" itemvalue="Python.selectionSort" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverseWords" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.selectionSort" />
-        <item index="1" class="java.lang.String" itemvalue="Python.deepCopy" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sumZero" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
-        <item index="4" class="java.lang.String" itemvalue="Python.segregateZeroOne" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reverseWords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.selectionSort" />
+        <item index="2" class="java.lang.String" itemvalue="Python.deepCopy" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sumZero" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -271,20 +281,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00006" summary="xml Update">
-      <created>1513773919263</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1513773919263</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Time of Linear Search and Loops in version 3.6.3">
-      <created>1513847642083</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1513847642083</updated>
     </task>
     <task id="LOCAL-00008" summary="xml Update">
       <created>1513847676538</created>
@@ -615,7 +611,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515510445589</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="xml Update">
+      <created>1515510482062</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1515510482062</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Reverse Words in a Sentence">
+      <created>1515599132067</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1515599132067</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +686,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Round an Integer to nearest 10" />
     <MESSAGE value="Maximum of Three Numbers using single if-else." />
     <MESSAGE value="Rotate List" />
     <MESSAGE value="Average of Three Numbers*&#10;* (More Optimized Way Needed)" />
@@ -695,13 +704,14 @@
     <MESSAGE value="Split the Even and Odd elements into two different lists." />
     <MESSAGE value="Merge Sort" />
     <MESSAGE value="Date Class" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Find pairs whose sum is Zero" />
     <MESSAGE value="Segregate Zeroes and Ones" />
     <MESSAGE value="Find pairs whose sum is zero." />
     <MESSAGE value="Find pairs whose sum is zero. (New Function)" />
     <MESSAGE value="Selection Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection Sort" />
+    <MESSAGE value="xml Update" />
+    <MESSAGE value="Reverse Words in a Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Words in a Sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -710,13 +720,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/palindromeRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1042,14 +1045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deepCopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deepCopy.py" />
     <entry file="file://$PROJECT_DIR$/sumZeroPairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1060,8 +1056,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="294">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
