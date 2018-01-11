@@ -28,17 +28,27 @@
         <entry file="file://$PROJECT_DIR$/selectionSort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverseWords.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reverseWords.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reverseWords.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dictionaryProblem.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -60,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/palindrome.py" />
         <option value="$PROJECT_DIR$/palindromeRec.py" />
         <option value="$PROJECT_DIR$/reverseSentence.py" />
         <option value="$PROJECT_DIR$/logo.py" />
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/deepCopy.py" />
         <option value="$PROJECT_DIR$/selectionSort.py" />
         <option value="$PROJECT_DIR$/reverseWords.py" />
+        <option value="$PROJECT_DIR$/dictionaryProblem.py" />
       </list>
     </option>
   </component>
@@ -138,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +160,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverseWords">
+  <component name="RunManager" selected="Python.dictionaryProblem">
     <configuration name="deepCopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,6 +192,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deepCopy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="dictionaryProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaryProblem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,37 +264,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sumZeroPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumZeroPairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.sumZero" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
-      <item index="2" class="java.lang.String" itemvalue="Python.deepCopy" />
-      <item index="3" class="java.lang.String" itemvalue="Python.selectionSort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reverseWords" />
+      <item index="1" class="java.lang.String" itemvalue="Python.deepCopy" />
+      <item index="2" class="java.lang.String" itemvalue="Python.selectionSort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reverseWords" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dictionaryProblem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverseWords" />
-        <item index="1" class="java.lang.String" itemvalue="Python.selectionSort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.deepCopy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sumZero" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sumZeroPairs" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dictionaryProblem" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverseWords" />
+        <item index="2" class="java.lang.String" itemvalue="Python.selectionSort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.deepCopy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sumZero" />
       </list>
     </recent_temporary>
   </component>
@@ -281,20 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00008" summary="xml Update">
-      <created>1513847676538</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1513847676538</updated>
-    </task>
-    <task id="LOCAL-00009" summary="xml Update">
-      <created>1513940701872</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1513940701872</updated>
     </task>
     <task id="LOCAL-00010" summary="xml Update">
       <created>1513940731674</created>
@@ -625,7 +621,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515599132067</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="xml Update">
+      <created>1515599389253</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1515599389253</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Attendance Count">
+      <created>1515678342238</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1515678342238</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -686,7 +696,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Maximum of Three Numbers using single if-else." />
     <MESSAGE value="Rotate List" />
     <MESSAGE value="Average of Three Numbers*&#10;* (More Optimized Way Needed)" />
     <MESSAGE value="Rotate List (Two Methods)" />
@@ -709,9 +718,10 @@
     <MESSAGE value="Find pairs whose sum is zero." />
     <MESSAGE value="Find pairs whose sum is zero. (New Function)" />
     <MESSAGE value="Selection Sort" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Reverse Words in a Sentence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Words in a Sentence" />
+    <MESSAGE value="xml Update" />
+    <MESSAGE value="Attendance Count" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attendance Count" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -720,13 +730,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/palindromeRec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -763,17 +766,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="63">
             <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1057,7 +1060,7 @@
     <entry file="file://$PROJECT_DIR$/selectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1065,7 +1068,15 @@
     <entry file="file://$PROJECT_DIR$/reverseWords.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
