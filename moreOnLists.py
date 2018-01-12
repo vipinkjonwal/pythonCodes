@@ -1,4 +1,3 @@
-from collections import deque
 def push(stack,item):
     stack.append(item)
     return stack
