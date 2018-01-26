@@ -14,17 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dictionaryProblem.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dictionaryProblem.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="441">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gameProblem.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gameProblem.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gameProblem.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
@@ -94,13 +94,13 @@
         <option value="$PROJECT_DIR$/deepCopy.py" />
         <option value="$PROJECT_DIR$/selectionSort.py" />
         <option value="$PROJECT_DIR$/reverseWords.py" />
-        <option value="$PROJECT_DIR$/dictionaryProblem.py" />
         <option value="$PROJECT_DIR$/moreOnLists.py" />
         <option value="$PROJECT_DIR$/queueUsingList.py" />
         <option value="$PROJECT_DIR$/sets.py" />
         <option value="$PROJECT_DIR$/playSong.py" />
         <option value="$PROJECT_DIR$/removeDuplicates.py" />
         <option value="$PROJECT_DIR$/gameProblem.py" />
+        <option value="$PROJECT_DIR$/dictionaryProblem.py" />
       </list>
     </option>
   </component>
@@ -129,7 +129,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +140,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,20 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00026" summary="xml Update">
-      <created>1514476115887</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1514476115887</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Swap Two Numbers (4 Methods)">
-      <created>1514476500922</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1514476500922</updated>
     </task>
     <task id="LOCAL-00028" summary="Swap Two Numbers (5 Methods)">
       <created>1514477488587</created>
@@ -615,7 +601,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516547181743</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="xml Update">
+      <created>1516893621122</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1516893621122</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Dictionary Problem">
+      <created>1516988702764</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1516988702766</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +676,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Number is Power of Two" />
     <MESSAGE value="Number is a power of two or not in O(1)" />
     <MESSAGE value="Number is a power of two or not." />
     <MESSAGE value="Number of Set Bits" />
@@ -701,7 +700,8 @@
     <MESSAGE value="Del catData.py" />
     <MESSAGE value="Game Problem*" />
     <MESSAGE value="xml Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml Update" />
+    <MESSAGE value="Dictionary Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionary Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1023,18 +1023,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catData.py" />
-    <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gameProblem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding />
         </state>
       </provider>
