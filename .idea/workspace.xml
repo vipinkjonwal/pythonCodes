@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/balancedParenthesis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -17,21 +18,51 @@
       <file leaf-file-name="dictionaryProblem.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitterApi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitterApi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitterApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="balancedParenthesis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/balancedParenthesis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseASentence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverseASentence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseWords.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverseWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zeroToEnd.py" />
-        <option value="$PROJECT_DIR$/setOperations.py" />
         <option value="$PROJECT_DIR$/extendedFactorial.py" />
         <option value="$PROJECT_DIR$/lbph.py" />
         <option value="$PROJECT_DIR$/graphPlot.py" />
@@ -103,6 +132,8 @@
         <option value="$PROJECT_DIR$/dictionaryProblem.py" />
         <option value="$PROJECT_DIR$/twitter.py" />
         <option value="$PROJECT_DIR$/twitterApi.py" />
+        <option value="$PROJECT_DIR$/balancedParanthesis.py" />
+        <option value="$PROJECT_DIR$/balancedParenthesis.py" />
       </list>
     </option>
   </component>
@@ -130,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,7 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.twitterApi">
+  <component name="RunManager" selected="Python.reverseWords">
     <configuration name="gameProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +226,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -207,7 +238,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonCodesGitHub" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +278,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sets" />
-      <item index="1" class="java.lang.String" itemvalue="Python.playSong" />
-      <item index="2" class="java.lang.String" itemvalue="Python.gameProblem" />
-      <item index="3" class="java.lang.String" itemvalue="Python.twitter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.twitterApi" />
+      <item index="0" class="java.lang.String" itemvalue="Python.playSong" />
+      <item index="1" class="java.lang.String" itemvalue="Python.gameProblem" />
+      <item index="2" class="java.lang.String" itemvalue="Python.twitter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.twitterApi" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverseWords" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.twitterApi" />
-        <item index="1" class="java.lang.String" itemvalue="Python.twitter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.gameProblem" />
-        <item index="3" class="java.lang.String" itemvalue="Python.playSong" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sets" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reverseWords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.twitterApi" />
+        <item index="2" class="java.lang.String" itemvalue="Python.twitter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.gameProblem" />
+        <item index="4" class="java.lang.String" itemvalue="Python.playSong" />
       </list>
     </recent_temporary>
   </component>
@@ -273,13 +304,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00031" summary="xml Update">
-      <created>1514562428287</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1514562428287</updated>
     </task>
     <task id="LOCAL-00032" summary="Reverse a Sentence">
       <created>1514563502530</created>
@@ -617,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517586758802</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="xml Update">
+      <created>1517586945722</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1517586945722</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,9 +732,9 @@
     <MESSAGE value="Del catData.py" />
     <MESSAGE value="Game Problem*" />
     <MESSAGE value="Dictionary Problem" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Tweepy Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tweepy Demo" />
+    <MESSAGE value="xml Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -712,20 +743,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ticTacToeUpdate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Python/Python36-32/Lib/timeit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="685">
@@ -832,13 +849,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reverseSentenceOpt.py" />
-    <entry file="file://$PROJECT_DIR$/reverseASentence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rotateList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -974,13 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverseWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sets.py" />
     <entry file="file://$PROJECT_DIR$/moreOnLists.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1018,29 +1021,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter.py">
+    <entry file="file://$PROJECT_DIR$/twitter.py" />
+    <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaryProblem.py">
+    <entry file="file://$PROJECT_DIR$/balancedParanthesis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitterApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseASentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/balancedParenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
