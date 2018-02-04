@@ -6,21 +6,19 @@ def balancedParenthesis(givenString):
     for i in range(len(givenString)):
         if givenString[i] == '(' or givenString[i] == '{' or givenString[i] == '[':
             tempStack.append(givenString[i])
-            print(givenString[i],tempStack)
-        else:
+        elif givenString[i] == ')' or givenString[i] == '}' or givenString[i] == ']':
             if givenString[i] == ')' and tempStack[top] == '(':
                 tempStack.pop()
-                print(givenString[i],tempStack)
 
             elif givenString[i] == '}' and tempStack[top] == '{':
                 tempStack.pop()
-                print(givenString[i],tempStack)
 
             elif givenString[i] == ']' and tempStack[top] == '[':
                 tempStack.pop()
-                print(givenString[i],tempStack)
             else:
                 break
+        else:
+            continue
 
     return True if len(tempStack) == 0 else False
 
