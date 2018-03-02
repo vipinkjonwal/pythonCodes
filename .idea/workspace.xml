@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/commonElements.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -14,25 +15,17 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonCodesGitHub$workingWithPDF.coverage" NAME="workingWithPDF Coverage Results" MODIFIED="1518578780409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCodesGitHub$commonElements.coverage" NAME="commonElements Coverage Results" MODIFIED="1520007493835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCodesGitHub$learn.coverage" NAME="learn Coverage Results" MODIFIED="1519988199473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonCodesGitHub$postfixEvaluation.coverage" NAME="postfixEvaluation Coverage Results" MODIFIED="1517897417830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="postfixEvaluation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/postfixEvaluation.py">
+      <file leaf-file-name="commonElements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commonElements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workingWithPDF.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/workingWithPDF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -54,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/graphPlot.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/frequency.py" />
         <option value="$PROJECT_DIR$/outputs.py" />
         <option value="$PROJECT_DIR$/computeSumRec.py" />
@@ -105,6 +96,8 @@
         <option value="$PROJECT_DIR$/balancedParenthesis.py" />
         <option value="$PROJECT_DIR$/postfixEvaluation.py" />
         <option value="$PROJECT_DIR$/workingWithPDF.py" />
+        <option value="$PROJECT_DIR$/learn.py" />
+        <option value="$PROJECT_DIR$/commonElements.py" />
       </list>
     </option>
   </component>
@@ -138,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,6 +142,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -170,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.workingWithPDF">
+  <component name="RunManager" selected="Python.commonElements">
     <configuration name="balancedParenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,6 +183,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="commonElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commonElements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonCodesGitHub" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="postfixEvaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,44 +235,6 @@
       <module name="pythonCodesGitHub" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/postfixEvaluation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseWords.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="twitterApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonCodesGitHub" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitterApi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +260,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.twitterApi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reverseWords" />
-      <item index="2" class="java.lang.String" itemvalue="Python.balancedParenthesis" />
-      <item index="3" class="java.lang.String" itemvalue="Python.postfixEvaluation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.workingWithPDF" />
+      <item index="0" class="java.lang.String" itemvalue="Python.balancedParenthesis" />
+      <item index="1" class="java.lang.String" itemvalue="Python.postfixEvaluation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.workingWithPDF" />
+      <item index="3" class="java.lang.String" itemvalue="Python.learn" />
+      <item index="4" class="java.lang.String" itemvalue="Python.commonElements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.workingWithPDF" />
-        <item index="1" class="java.lang.String" itemvalue="Python.postfixEvaluation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.balancedParenthesis" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reverseWords" />
-        <item index="4" class="java.lang.String" itemvalue="Python.twitterApi" />
+        <item index="0" class="java.lang.String" itemvalue="Python.commonElements" />
+        <item index="1" class="java.lang.String" itemvalue="Python.learn" />
+        <item index="2" class="java.lang.String" itemvalue="Python.workingWithPDF" />
+        <item index="3" class="java.lang.String" itemvalue="Python.postfixEvaluation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.balancedParenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -296,13 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Number of Set Bits">
-      <created>1514820985007</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1514820985007</updated>
     </task>
     <task id="LOCAL-00042" summary="xml Update">
       <created>1514821054552</created>
@@ -640,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518578835389</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="xml Update">
+      <created>1518578898033</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1518578898033</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -731,9 +724,9 @@
     <MESSAGE value="Tweepy Demo" />
     <MESSAGE value="Balanced Parenthesis" />
     <MESSAGE value="Postfix Evaluation" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Working with PDF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with PDF" />
+    <MESSAGE value="xml Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,20 +735,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sendMessage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binarySearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linearSearchVSBinarySearchTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -1045,16 +1024,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/postfixEvaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="483">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/workingWithPDF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="441">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
