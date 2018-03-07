@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2297343-8704-4f55-ae03-36958817ff26" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bookCricket.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cricbuzz.py" afterPath="$PROJECT_DIR$/cricbuzz.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +51,8 @@
       <file leaf-file-name="bookCricket.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookCricket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="231">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -318,27 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511627319429</updated>
-    </task>
-    <task id="LOCAL-00049" summary="xml Update">
-      <created>1515254245056</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1515254245056</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Find pairs whose sum is Zero">
-      <created>1515311878357</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1515311878358</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Segregate Zeroes and Ones">
-      <created>1515312524191</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1515312524192</updated>
     </task>
     <task id="LOCAL-00052" summary="Find pairs whose sum is zero.">
       <created>1515321413296</created>
@@ -662,7 +639,28 @@
       <option name="project" value="LOCAL" />
       <updated>1520322116565</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="xml Update">
+      <created>1520437743686</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1520437743686</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Book Cricket Game">
+      <created>1520437776249</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1520437776249</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Cricbuzz API Learn">
+      <created>1520437814889</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1520437814889</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,8 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Segregate Zeroes and Ones" />
-    <MESSAGE value="Find pairs whose sum is zero." />
     <MESSAGE value="Find pairs whose sum is zero. (New Function)" />
     <MESSAGE value="Selection Sort" />
     <MESSAGE value="Reverse Words in a Sentence" />
@@ -752,10 +748,12 @@
     <MESSAGE value="Working with PDF" />
     <MESSAGE value="Find common elements in given lists." />
     <MESSAGE value="K Fold Rotation" />
-    <MESSAGE value="xml Update" />
     <MESSAGE value="Cricbuzz API" />
     <MESSAGE value="Play Cricket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Play Cricket" />
+    <MESSAGE value="xml Update" />
+    <MESSAGE value="Book Cricket Game" />
+    <MESSAGE value="Cricbuzz API Learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cricbuzz API Learn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1049,6 +1047,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1073,8 +1074,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookCricket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="231">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
