@@ -21,12 +21,11 @@ def mySub(number1,number2):
 	Return Value   : Difference of given two numbers.
 	'''
 	#Approach      : Use of recursion and myIncrement function.
-	if number2==0:
-		return number1
-	else:
+	if number2!=0:
 		number1=pred.predecessor(number1)
 		number1=mySub(number1,pred.predecessor(number2))
-		return number1
+	
+	return number1
 
 def main():
 	'''
